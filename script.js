@@ -1,4 +1,4 @@
-const apiKey = "0MXcnTH9DGOg1_7zVh1oUrgJxG7dHAKcmYNoEQuNpS4";
+const apiKey = "YOUR_API_KEY_HERE";
 
 
 const searchBox = document.getElementById("search-box");
